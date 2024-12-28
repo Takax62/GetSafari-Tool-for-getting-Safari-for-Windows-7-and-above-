@@ -1,0 +1,1 @@
+# GetSafari-Tool-for-getting-Safari-for-Windows-XP-and-above-
