@@ -1,0 +1,1 @@
+To download Safari 5.1.7, you need to download this tool by downloading the file named "GetSafari.exe" and then, run it. If it says "Windows protected your PC", you need to click More info and then, click Run anyway. It will automatically download the setup and you need to open the setup.
